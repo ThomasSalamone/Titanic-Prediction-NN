@@ -40,7 +40,7 @@ Avvia il notebook:
 
 📊 Risultati
 
-Il modello raggiunge un'accuratezza di circa X% sul set di test (sostituisci con il tuo valore).
+Il modello raggiunge un'accuratezza di circa 80% sul set di test (sostituisci con il tuo valore).
 La matrice di confusione mostra buone prestazioni nella classificazione dei passeggeri sopravvissuti vs. non sopravvissuti.
 🔧 Possibili miglioramenti
 
