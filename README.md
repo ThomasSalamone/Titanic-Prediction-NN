@@ -34,10 +34,6 @@ Clona il repository:
 
     git clone https://github.com/thomassalamone/titanic-prediction-nn.git
 
-Installa le dipendenze:
-
-    pip install -r requirements.txt
-
 Avvia il notebook:
 
     jupyter notebook Titanic.ipynb
