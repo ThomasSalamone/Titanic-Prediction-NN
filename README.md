@@ -32,11 +32,11 @@ Questo progetto utilizza una rete neurale per prevedere la sopravvivenza dei pas
 
     Clona il repository:
 
-git clone https://github.com/thomassalamone/titanic-prediction-nn.git
+    git clone https://github.com/thomassalamone/titanic-prediction-nn.git
 
 Installa le dipendenze:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Avvia il notebook:
 
