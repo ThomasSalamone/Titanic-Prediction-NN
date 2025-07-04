@@ -6,13 +6,13 @@
 Questo progetto utilizza una rete neurale per prevedere la sopravvivenza dei passeggeri del Titanic, basandosi su caratteristiche come sesso, età, classe del biglietto e altro. È un progetto ideale per chi vuole iniziare a lavorare con reti neurali in ambito di classificazione binaria.
 🧠 Obiettivi
 
-    Pre-elaborare i dati (pulizia, encoding, normalizzazione)
+- Pre-elaborare i dati (pulizia, encoding, normalizzazione)
 
-    Costruire una rete neurale semplice con Keras/TensorFlow
+- Costruire una rete neurale semplice con Keras/TensorFlow
 
-    Allenare il modello e valutarne la performance
+- Allenare il modello e valutarne la performance
 
-    Visualizzare i risultati e interpretare le predizioni
+- Visualizzare i risultati e interpretare le predizioni
 
 📁 Contenuto del repository
 
@@ -30,7 +30,7 @@ Questo progetto utilizza una rete neurale per prevedere la sopravvivenza dei pas
 
 🚀 Come eseguirlo
 
-    Clona il repository:
+Clona il repository:
 
     git clone https://github.com/thomassalamone/titanic-prediction-nn.git
 
