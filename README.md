@@ -1,24 +1,22 @@
-# Titanic-Prediction-NN
-
 🛳️ Titanic Survival Prediction using Neural Networks
-📘 Descrizione
+📘 Description
 
-Questo progetto utilizza una rete neurale per prevedere la sopravvivenza dei passeggeri del Titanic, basandosi su caratteristiche come sesso, età, classe del biglietto e altro. È un progetto ideale per chi vuole iniziare a lavorare con reti neurali in ambito di classificazione binaria.
-🧠 Obiettivi
+This project uses a neural network to predict the survival of Titanic passengers based on features such as sex, age, ticket class, and more. It's an ideal project for beginners who want to get started with neural networks in binary classification tasks.
+🧠 Objectives
 
-- Pre-elaborare i dati (pulizia, encoding, normalizzazione)
+    Preprocess the data (cleaning, encoding, normalization)
 
-- Costruire una rete neurale semplice con Keras/TensorFlow
+    Build a simple neural network using Keras/TensorFlow
 
-- Allenare il modello e valutarne la performance
+    Train the model and evaluate its performance
 
-- Visualizzare i risultati e interpretare le predizioni
+    Visualize the results and interpret predictions
 
-📁 Contenuto del repository
+📁 Repository Contents
 
-    Titanic_Survival_NN.ipynb – Notebook principale con tutti i passaggi
+    Titanic_Survival_NN.ipynb – Main notebook with all the steps
 
-🧪 Librerie utilizzate
+🧪 Libraries Used
 
     Python 3.11+
 
@@ -28,30 +26,30 @@ Questo progetto utilizza una rete neurale per prevedere la sopravvivenza dei pas
 
     TensorFlow / Keras
 
-🚀 Come eseguirlo
+🚀 How to Run
 
-Clona il repository:
+Clone the repository:
 
     git clone https://github.com/thomassalamone/titanic-prediction-nn.git
 
-Avvia il notebook:
+Launch the notebook:
 
     jupyter notebook Titanic.ipynb
 
-📊 Risultati
+📊 Results
 
-Il modello raggiunge un'accuratezza di circa 80% sul set di test (sostituisci con il tuo valore).
-La matrice di confusione mostra buone prestazioni nella classificazione dei passeggeri sopravvissuti vs. non sopravvissuti.
-🔧 Possibili miglioramenti
+The model achieves approximately 80% accuracy on the test set (replace with your actual value).
+The confusion matrix shows good performance in classifying survived vs. non-survived passengers.
+🔧 Possible Improvements
 
-    Ottimizzazione degli iperparametri
+    Hyperparameter tuning
 
-    Aggiunta di tecniche di regolarizzazione (dropout, L2)
+    Adding regularization techniques (dropout, L2)
 
-    Feature engineering più avanzato
+    More advanced feature engineering
 
-    Confronto con altri modelli (Random Forest, SVM)
+    Comparison with other models (Random Forest, SVM)
 
-📜 Licenza
+📜 License
 
-Distribuito sotto licenza MIT. Vedi LICENSE per i dettagli.
+Distributed under the MIT License. See LICENSE for more details.
