@@ -1,4 +1,4 @@
-🛳️ Titanic Survival Prediction using Neural Networks
+# 🛳️ Titanic Survival Prediction using Neural Networks
 📘 Description
 
 This project uses a neural network to predict the survival of Titanic passengers based on features such as sex, age, ticket class, and more. It's an ideal project for beginners who want to get started with neural networks in binary classification tasks.
