@@ -42,13 +42,13 @@ The model achieves approximately 80% accuracy on the test set (replace with your
 The confusion matrix shows good performance in classifying survived vs. non-survived passengers.
 🔧 Possible Improvements
 
-    Hyperparameter tuning
+- Hyperparameter tuning
 
-    Adding regularization techniques (dropout, L2)
+- Adding regularization techniques (dropout, L2)
 
-    More advanced feature engineering
+- More advanced feature engineering
 
-    Comparison with other models (Random Forest, SVM)
+- Comparison with other models (Random Forest, SVM)
 
 📜 License
 
