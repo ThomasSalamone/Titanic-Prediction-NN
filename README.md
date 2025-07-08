@@ -4,13 +4,13 @@
 This project uses a neural network to predict the survival of Titanic passengers based on features such as sex, age, ticket class, and more. It's an ideal project for beginners who want to get started with neural networks in binary classification tasks.
 🧠 Objectives
 
-    Preprocess the data (cleaning, encoding, normalization)
+1. Preprocess the data (cleaning, encoding, normalization)
 
-    Build a simple neural network using Keras/TensorFlow
+2. Build a simple neural network using Keras/TensorFlow
 
-    Train the model and evaluate its performance
+3. Train the model and evaluate its performance
 
-    Visualize the results and interpret predictions
+4. Visualize the results and interpret predictions
 
 📁 Repository Contents
 
